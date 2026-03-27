@@ -10,10 +10,6 @@
 
 Steps to build and/or run the software:
 
-1. Use pip to install the socket and threading libraries:
-```bash
-pip install socket
-pip install threading
 ```
 2. Run the server.py file:
 ```bash
